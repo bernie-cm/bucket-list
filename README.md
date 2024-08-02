@@ -1,7 +1,6 @@
 # Bucket List
 A small project to track my bucket list using AWS Amplify
 
-# Bucket List Tracker
 
 ## Milestone 1: Project Setup
 
